@@ -26,7 +26,9 @@ Type adb install "FlowDrive.apk"
 
 Things to NOTE 
 The tests were done through Android studio and Eclipse and used an AVD.
-the original .apk file can be found - http://flowdrive.floowapp.io/
+the original .apk file can be found - http://flowdrive.floowapp.io/ 
+
+- it will Be called - 8b3d8e298a.apk - I renamed it to FlowDriv so I could find it quicker.
 
 Always Connect/ Start the Emulated device or the actual device before starting Appium and running tests.
 
