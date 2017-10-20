@@ -7,8 +7,10 @@ Things needed to down load before start As they will help.
 Appium --*PUT LINK HERE*
 Appium Java -- http://appium.io/downloads.html
 Eclipse -- https://www.eclipse.org/downloads/
+
 Android Studio -- https://developer.android.com/studio/index.html
 Selenium JAR's -- http://www.seleniumhq.org/download/
+
 Java -- https://java.com/en/download/
 
 Also make a note of where you place the FlowDrive.apk you will need it when installing through the command line.
@@ -16,6 +18,7 @@ Also make a note of where you place the FlowDrive.apk you will need it when inst
 Command lines to use - (WINDOWS, CMD)
 
 Type cd “C:\Program Files (x86)\Android\android-studio\sdk\platform-tools” - (If this is where you would find it)
+
 Type adb install "FlowDrive.apk"
 
 Things to NOTE 
