@@ -1,0 +1,44 @@
+BUG List/ Potential Issues
+
+//I put this together thinking it might help//
+
+1. Scrolling - When ogin presented with three screens 
+- (Cant scroll forward using arrows or The three dots at bottom)
+
+2.No Home Button
+
+3.No Sign out option (Can close but Sign out would be usful)
+
+4.on the create account screen - the text boxes turn white
+when you type in to them and dont change back to the blue they where once you tap away
+
+5.(Possibly a non fault) If the Date of birth tab is meant to show actual date - it shows the correct Moth and day but reads year 2000
+
+6.on the ome screen = click "Emergency" (The popupwindow comes up) 
+Close the popup vi the 'X' The "Enable GPS" Flickers from "Start Journey" / "Aquiering GPS" bac to the "Enable GPS"
+
+7.(Not Quite a bug but...) Under the score Tab - the 'i' button opens information on how scoring works.
+The spacing on the title 'Driving Score' and the paragraph its above is 2x te size of the other titles. Other than that page is good.
+
+8.Under the software Licence aknowlagments screen -
+'Thrift', 'CrashAnylitics' and 'Amazon AWS SDK' options links to the 'Apache' T&Cs and not there own (If there is a differance)
+8.1a - also 'Spongy Castle' is incorect the licence when open reads - 'The Bouncy Castle'
+
+9.App version reads as 1.7.8.13r not as if opend 1.7.8.13 (Generic)
+
+10.the create a profile add a photo circle distorts pictures - think the imagescales might be off due to Shape maybe?
+
+11.Under My Profile - create a profile - Name Test33333, Image Any, Description 'Lego and tea' Create
+Go to youre profile
+Edit icon
+Change the name Phil, Change the image, when the app reopens the name will have reverted to the old name EG Test33333.
+This also effects the Description and if you change both before the image they areboth reverted - all happens before save 
+
+12. Still on the profile change - change the image issue
+click edit -the picture disapears while screen loads - if you chnage the image and save the image flicks back to old image.
+
+
+13...ish - Might not be part of the app yet but the Send button on Report issue or feedback dosent send feedback anywhere. 
+It prompts foryou to send to one of youre personal phone contacts.
+
+ 

@@ -1,0 +1,3 @@
+All Manual test were performed on - Android, Galaxy S7 Edge, 6.0.1...I think
+Connected to Appium on record.
+and Android studio - Replicating on AVD - Nexus 5
