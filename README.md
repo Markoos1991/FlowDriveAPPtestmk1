@@ -5,10 +5,13 @@ There is a readme file included.
 Things needed to down load before start As they will help.
 
 Appium --*PUT LINK HERE*
+
 Appium Java -- http://appium.io/downloads.html
+
 Eclipse -- https://www.eclipse.org/downloads/
 
 Android Studio -- https://developer.android.com/studio/index.html
+
 Selenium JAR's -- http://www.seleniumhq.org/download/
 
 Java -- https://java.com/en/download/
