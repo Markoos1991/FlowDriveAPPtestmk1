@@ -26,4 +26,4 @@ Always Connect/ Start the Emulated device or the actual device before starting A
 
 Hope you have fun.
 Regard,
-MG
+MG.
